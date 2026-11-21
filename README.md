@@ -1,5 +1,7 @@
 # Universal AI Agent Connector 🔗
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 ![Universal AI Connector UI](frontend/public/window.svg)
 
 A standalone, completely universal AI integration and orchestration platform. Build dynamic multi-agent pipelines linking *any* open API, custom webhook, or 3rd-party SaaS using natural language payload translation!
